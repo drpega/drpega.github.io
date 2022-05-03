@@ -1,5 +1,5 @@
 window.langEN = {
-  hero_text: 'Government services at your finger tips',
+  hero_text: 'New Jersey OAL Portal',
   hero_span: '',
   learnmore: 'Learn more',
   applynow: 'Apply Now',
@@ -63,7 +63,7 @@ window.langEN = {
   recentactivity3_msg: 'Your school official application #4345656 was approved',
   recentactivity4_msg: 'Your course offering application #4345656 was received',
   viewmore: 'View more',
-  offer1_title: 'DFS has gone paperless!',
+  offer1_title: 'DFS has gone paperless',
   offer1_msg: 'Visit your account profile to opt-in today.',
   offerforyou: 'Offer for you',
   quicklinks: 'Quick links',
