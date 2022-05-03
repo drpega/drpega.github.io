@@ -43,7 +43,7 @@ window.langEN = {
   accountpicker3_title: 'Water Bill',
   accountpicker3_desc: 'Due in 2 months',
   youraccount: 'Your current applications',
-  accountoverview: 'Welcome to the DFS self-service portal',
+  accountoverview: 'Case Transmission Portal',
   billpay: 'Bill pay',
   amountdue: 'Amount due',
   paynow: 'Pay now',
