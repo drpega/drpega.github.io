@@ -75,7 +75,7 @@ window.app = {
   ],
   offers: [
     {
-      img: 'offer-image.jpg',
+      img: 'landing-detail-1.png',
       title: 'offer1_title',
       message: 'offer1_msg',
     },
