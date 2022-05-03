@@ -20,24 +20,14 @@ window.app = {
     },
   ],
   primarydetails: [
-    {
-      img: 'img/option-1.jpg',
-      title: 'primary1_title',
-      message: 'primary1_msg',
-      link: 'learnmore',
-    },
+
     {
       img: 'img/option-2.jpg',
       title: 'primary2_title',
       message: 'primary2_msg',
       link: 'learnmore',
     },
-    {
-      img: 'img/option-3.jpg',
-      title: 'primary3_title',
-      message: 'primary3_msg',
-      link: 'learnmore',
-    },
+
   ],
   accountpicker: [
     {
