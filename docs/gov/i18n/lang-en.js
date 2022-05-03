@@ -1,5 +1,5 @@
 window.langEN = {
-  hero_text: 'Government services at your finger tips',
+  hero_text: 'New Jersey OAL Portal',
   hero_span: '',
   learnmore: 'Learn more',
   applynow: 'Apply Now',
